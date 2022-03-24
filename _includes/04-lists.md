@@ -1,5 +1,5 @@
-camera
-car
-bike
-watches
-shoes
+- camera
+- car
+- bike
+- watches
+- shoes
